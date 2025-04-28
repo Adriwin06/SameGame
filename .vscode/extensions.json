@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",        // Java Extension Pack
+        "redhat.java",                     // Language Support for Java
+        "vscjava.vscode-maven",            // Maven support
+        "vscjava.vscode-java-debug",       // Debugger for Java
+        "vscjava.vscode-java-test",        // Java Test Runner
+        "vscjava.vscode-java-dependency"   // Project Manager for Java
+    ]
+}
