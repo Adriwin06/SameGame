@@ -9,6 +9,7 @@ SameGame is a puzzle game where the goal is to clear as many colored blocks from
 # Introduction
 
 This project is a semester project. I had very strict requirements to follow but still free for the design and to add some features if I wanted to. Since at that time I was playing A Plague Tale: Innocence and A Plague Tale: Requiem, I decided to use the medieval theme from these games. These games are just amazing (they are my favorite), and I wanted to honor them in some way. I had a very limited time to finish the project, so I had to cut some features like the settings, the possibility to change the theme, and some others. I was also learning Java at that time (and I still do), so I had to learn a lot of things while working on this project.
+This is not the original git repository because the original one contains a lot of private information that I don't want to share for now as well as all the commits.
 
 ## Installation
 
