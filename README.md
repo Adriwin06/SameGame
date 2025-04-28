@@ -78,7 +78,7 @@ java Main
 ## Documentation
 
 The codebase is documented using Javadoc comments. This allows for easy generation of API documentation and helps in understanding the purpose and usage of different classes and methods throughout the project.
-It was part of the requirements, but I maye have overdone it a bit lol.
+It was part of the requirements, but I may have overdone it a bit.
 The documentation can be generated using the following command:
 ```bash
 javadoc -d doc Main.java -subpackages SameGame
