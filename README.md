@@ -6,6 +6,11 @@ A Java implementation of the classic puzzle game SameGame, featuring a medieval 
 
 SameGame is a puzzle game where the goal is to clear as many colored blocks from the board as possible. Blocks can only be removed when they form a group of two or more of the same color connected horizontally or vertically. The larger the group removed is, the higher is the score.
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/d9e33cd0-2011-4535-ab24-b86d4d5e3d20" alt="MainMenu" width=45%/>
+    <img src="https://github.com/user-attachments/assets/fb6d1a15-f5c2-48eb-87b5-1a974fb7f7fe" alt="Grid" width=45%/>
+</p>
+
 # Introduction
 
 This project is a semester project. I had very strict requirements to follow but still free for the design and to add some features if I wanted to. Since at that time I was playing A Plague Tale: Innocence and A Plague Tale: Requiem, I decided to use the medieval theme from these games. These games are just amazing (they are my favorite), and I wanted to honor them in some way. I had a very limited time to finish the project, so I had to cut some features like the settings, the possibility to change the theme, and some others. I was also learning Java at that time (and I still do), so I had to learn a lot of things while working on this project.
@@ -49,6 +54,12 @@ java Main
 2. **Controls**: Click on a group of connected blocks of the same color to remove them.
 3. **Scoring**: The score increases based on the formula (n-2)², where n is the number of blocks removed.
 4. **Game Over**: The game ends when no more valid moves are available.
+5. 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5c9441db-28a0-46ea-af18-dca9ebe7f6e5" alt="Grid_Flame" width=30%/>
+    <img src="https://github.com/user-attachments/assets/280eafde-8b24-443b-a4be-93c13b95b353" alt="Grid_Phoenix" width=30%/>
+    <img src="https://github.com/user-attachments/assets/32a2e3fe-1b9c-4802-bdd6-2593921b38db" alt="Grid_Rat" width=30%/>
+</p>
 
 ## Project Structure
 
