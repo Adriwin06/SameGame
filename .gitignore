@@ -41,6 +41,7 @@ replay_pid*
 *.sav
 
 # Javadoc
+doc/
 legal/*
 resources/*
 *.html

@@ -59,6 +59,16 @@ java Main
   - `Grids/`: Predefined grid layouts
   - `SaveGame/`: Directory for save game files (grid and score)
 
+## Documentation
+
+The codebase is documented using Javadoc comments. This allows for easy generation of API documentation and helps in understanding the purpose and usage of different classes and methods throughout the project.
+It was part of the requirements, but I maye have overdone it a bit lol.
+The documentation can be generated using the following command:
+```bash
+javadoc -d doc Main.java -subpackages SameGame
+```
+This will create a `doc` directory containing the generated documentation.
+
 ## Customization
 
 The game includes several predefined grid layouts in the `SameGame/Grids/` directory. You can create your own layouts by following the format in the existing files:
