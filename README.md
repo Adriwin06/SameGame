@@ -54,7 +54,7 @@ java Main
 2. **Controls**: Click on a group of connected blocks of the same color to remove them.
 3. **Scoring**: The score increases based on the formula (n-2)², where n is the number of blocks removed.
 4. **Game Over**: The game ends when no more valid moves are available.
-5. 
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5c9441db-28a0-46ea-af18-dca9ebe7f6e5" alt="Grid_Flame" width=30%/>
     <img src="https://github.com/user-attachments/assets/280eafde-8b24-443b-a4be-93c13b95b353" alt="Grid_Phoenix" width=30%/>
